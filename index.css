@@ -27,6 +27,10 @@
     margin: 5px;
 }
 
+.shimmer-card-height {
+    height: 300px;
+}
+
 .res-card:hover {
     cursor: pointer;
     border: 1px solid black;
@@ -44,4 +48,10 @@
 .res-container {
     display: flex;
     flex-wrap: wrap;
+}
+
+.login {
+    padding: 0 2px;
+    cursor: pointer;
+    margin: 10px;
 }
